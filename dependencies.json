@@ -1,0 +1,14 @@
+[
+  {
+    "Repository URL": "https://github.com/LS-Instruments/LsiCheckOutTestA.git",
+    "Base Path": "../libs/test-a",
+    "Tag": "v1.0.3",
+    "API Compatible Tags": ["v1.0.0", "v1.0.1", "v1.0.2"]
+  },
+  {
+    "Repository URL": "https://github.com/LS-Instruments/LsiCheckOutTestB.git",
+    "Base Path": "../libs/test-b",
+    "Tag": "v1.0.3",
+    "API Compatible Tags": ["v1.0.0", "v1.0.1", "v1.0.2"]
+  }
+]
